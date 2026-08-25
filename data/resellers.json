@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "name": "Kak Siti Nasi Arab",
+    "tier": "Master Stockist",
+    "phone": "+60133102649",
+    "state": "Selangor",
+    "area": "Shah Alam & Subang Jaya",
+    "postcode": "40000",
+    "cod_available": true,
+    "rating": 4.9,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam",
+      "Maqlubah Daging"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ustaz Faris Express Hub",
+    "tier": "Master Stockist",
+    "phone": "+60193883672",
+    "state": "Selangor",
+    "area": "Bangi, Kajang & Putrajaya",
+    "postcode": "43650",
+    "cod_available": true,
+    "rating": 5.0,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam",
+      "Perencah Segera"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ahmad Dapur Arab",
+    "tier": "Agent",
+    "phone": "+60129584188",
+    "state": "Kuala Lumpur",
+    "area": "Wangsa Maju, Setapak & Melawati",
+    "postcode": "53300",
+    "cod_available": true,
+    "rating": 4.8,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Puan Zainab Nasi Arab",
+    "tier": "Stockist",
+    "phone": "+60176755889",
+    "state": "Kuala Lumpur",
+    "area": "Cheras, Ampang & Pandan",
+    "postcode": "56000",
+    "cod_available": true,
+    "rating": 4.9,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Maqlubah Daging",
+      "Kabsah Ayam"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cikgu Hafiz Foodies",
+    "tier": "Master Stockist",
+    "phone": "+60199372200",
+    "state": "Johor",
+    "area": "Johor Bahru, Skudai & Pasir Gudang",
+    "postcode": "81300",
+    "cod_available": true,
+    "rating": 4.9,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam",
+      "Maqlubah Daging"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dapur Arab Warisan",
+    "tier": "Agent",
+    "phone": "+60134320965",
+    "state": "Johor",
+    "area": "Batu Pahat & Muar",
+    "postcode": "83000",
+    "cod_available": true,
+    "rating": 4.7,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hj. Razak Nasi Arab Utara",
+    "tier": "Master Stockist",
+    "phone": "+60168826130",
+    "state": "Pulau Pinang",
+    "area": "Georgetown, Bayan Lepas & Seberang Perai",
+    "postcode": "11900",
+    "cod_available": true,
+    "rating": 5.0,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam",
+      "Maqlubah Daging"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mak Cik Salmah",
+    "tier": "Agent",
+    "phone": "+60193314955",
+    "state": "Perak",
+    "area": "Ipoh, Manjung & Taiping",
+    "postcode": "30000",
+    "cod_available": true,
+    "rating": 4.8,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Encik Khairul Dapur Pantai Timur",
+    "tier": "Master Stockist",
+    "phone": "+60194744343",
+    "state": "Pahang",
+    "area": "Kuantan & Temerloh",
+    "postcode": "25000",
+    "cod_available": true,
+    "rating": 4.9,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam",
+      "Maqlubah Daging"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Kak Wan Nasi Arab",
+    "tier": "Stockist",
+    "phone": "+60139145683",
+    "state": "Kelantan",
+    "area": "Kota Bharu & Kubang Kerian",
+    "postcode": "15200",
+    "cod_available": true,
+    "rating": 4.9,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Puan Noraini Melaka",
+    "tier": "Agent",
+    "phone": "+60172274725",
+    "state": "Melaka",
+    "area": "Ayer Keroh, Bandar Melaka & Alor Gajah",
+    "postcode": "75450",
+    "cod_available": true,
+    "rating": 4.8,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dapur Arab Borneo",
+    "tier": "Master Stockist",
+    "phone": "+60148483867",
+    "state": "Sabah & Sarawak",
+    "area": "Kota Kinabalu & Kuching",
+    "postcode": "88000",
+    "cod_available": true,
+    "rating": 4.9,
+    "ready_stock": [
+      "Mandy Kambing",
+      "Kabsah Ayam",
+      "Perencah Segera"
+    ]
+  }
+]
