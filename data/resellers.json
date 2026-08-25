@@ -1,22 +1,40 @@
 [
   {
     "id": 1,
-    "name": "Kak Siti Nasi Arab",
-    "tier": "Master Stockist",
-    "phone": "+60133102649",
+    "name": "Zaid (HQ Nasi Arab Express)",
+    "tier": "HQ / Master Distributor",
+    "phone": "+60139145683",
     "state": "Selangor",
-    "area": "Shah Alam & Subang Jaya",
+    "area": "Shah Alam, Subang, Bangi & Pos Seluruh Malaysia",
     "postcode": "40000",
     "cod_available": true,
-    "rating": 4.9,
+    "rating": 5.0,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam",
-      "Maqlubah Daging"
+      "Yemeni Mendhi",
+      "Qatari Majboos",
+      "Mesri Bookhari",
+      "Pes Sup Waslah",
+      "Pes Ayam Merah"
     ]
   },
   {
     "id": 2,
+    "name": "Kak Siti Nasi Arab",
+    "tier": "Master Stockist",
+    "phone": "+60139145683",
+    "state": "Selangor",
+    "area": "Shah Alam & Klang",
+    "postcode": "40000",
+    "cod_available": true,
+    "rating": 4.9,
+    "ready_stock": [
+      "Yemeni Mendhi",
+      "Qatari Majboos",
+      "Mesri Bookhari"
+    ]
+  },
+  {
+    "id": 3,
     "name": "Ustaz Faris Express Hub",
     "tier": "Master Stockist",
     "phone": "+60193883672",
@@ -26,13 +44,12 @@
     "cod_available": true,
     "rating": 5.0,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam",
-      "Perencah Segera"
+      "Yemeni Mendhi",
+      "Qatari Majboos"
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Ahmad Dapur Arab",
     "tier": "Agent",
     "phone": "+60129584188",
@@ -42,12 +59,12 @@
     "cod_available": true,
     "rating": 4.8,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam"
+      "Yemeni Mendhi",
+      "Qatari Majboos"
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Puan Zainab Nasi Arab",
     "tier": "Stockist",
     "phone": "+60176755889",
@@ -57,13 +74,12 @@
     "cod_available": true,
     "rating": 4.9,
     "ready_stock": [
-      "Mandy Kambing",
-      "Maqlubah Daging",
-      "Kabsah Ayam"
+      "Yemeni Mendhi",
+      "Mesri Bookhari"
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Cikgu Hafiz Foodies",
     "tier": "Master Stockist",
     "phone": "+60199372200",
@@ -73,13 +89,13 @@
     "cod_available": true,
     "rating": 4.9,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam",
-      "Maqlubah Daging"
+      "Yemeni Mendhi",
+      "Qatari Majboos",
+      "Mesri Bookhari"
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Dapur Arab Warisan",
     "tier": "Agent",
     "phone": "+60134320965",
@@ -89,12 +105,12 @@
     "cod_available": true,
     "rating": 4.7,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam"
+      "Yemeni Mendhi",
+      "Qatari Majboos"
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Hj. Razak Nasi Arab Utara",
     "tier": "Master Stockist",
     "phone": "+60168826130",
@@ -104,13 +120,13 @@
     "cod_available": true,
     "rating": 5.0,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam",
-      "Maqlubah Daging"
+      "Yemeni Mendhi",
+      "Qatari Majboos",
+      "Mesri Bookhari"
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Mak Cik Salmah",
     "tier": "Agent",
     "phone": "+60193314955",
@@ -120,13 +136,13 @@
     "cod_available": true,
     "rating": 4.8,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam"
+      "Yemeni Mendhi",
+      "Qatari Majboos"
     ]
   },
   {
-    "id": 9,
-    "name": "Encik Khairul Dapur Pantai Timur",
+    "id": 10,
+    "name": "Encik Khairul Pantai Timur",
     "tier": "Master Stockist",
     "phone": "+60194744343",
     "state": "Pahang",
@@ -135,13 +151,13 @@
     "cod_available": true,
     "rating": 4.9,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam",
-      "Maqlubah Daging"
+      "Yemeni Mendhi",
+      "Qatari Majboos",
+      "Mesri Bookhari"
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Kak Wan Nasi Arab",
     "tier": "Stockist",
     "phone": "+60139145683",
@@ -151,39 +167,23 @@
     "cod_available": true,
     "rating": 4.9,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam"
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Puan Noraini Melaka",
-    "tier": "Agent",
-    "phone": "+60172274725",
-    "state": "Melaka",
-    "area": "Ayer Keroh, Bandar Melaka & Alor Gajah",
-    "postcode": "75450",
-    "cod_available": true,
-    "rating": 4.8,
-    "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam"
+      "Yemeni Mendhi",
+      "Qatari Majboos"
     ]
   },
   {
     "id": 12,
-    "name": "Dapur Arab Borneo",
-    "tier": "Master Stockist",
-    "phone": "+60148483867",
-    "state": "Sabah & Sarawak",
-    "area": "Kota Kinabalu & Kuching",
-    "postcode": "88000",
+    "name": "Puan Noraini Melaka",
+    "tier": "Agent",
+    "phone": "+60172274725",
+    "state": "Melaka",
+    "area": "Ayer Keroh & Bandar Melaka",
+    "postcode": "75450",
     "cod_available": true,
-    "rating": 4.9,
+    "rating": 4.8,
     "ready_stock": [
-      "Mandy Kambing",
-      "Kabsah Ayam",
-      "Perencah Segera"
+      "Yemeni Mendhi",
+      "Qatari Majboos"
     ]
   }
 ]
